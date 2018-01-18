@@ -1,5 +1,5 @@
 $ dig + noall + answer wsnbb.cn
-;wsnbb.cn
+;
 
 wsnbb.cn   192.30.252.153
 wsnbb.cn  192.30.252.154
