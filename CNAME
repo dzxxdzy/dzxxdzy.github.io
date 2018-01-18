@@ -1,1 +1,4 @@
-www.wsnbb.cn
+$ dig + noall + answer wsnbb.cn
+; example.com¡£
+wsnbb.cn¡£   73ÔÚ192.30.252.153
+ wsnbb.cn¡£   73ÖÐA 192.30.252.154
